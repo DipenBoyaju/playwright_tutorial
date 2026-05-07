@@ -15,5 +15,3 @@ https://swisnl.github.io/jQuery-contextMenu/demo.html
 https://ui.vision/demo/webtest/dragdrop/
 
 https://gotranscript.com/text-compare
-
-https://www.foundit.in/
