@@ -1,4 +1,4 @@
-https://demoblaze.com/index.html
+https://demoblaze.com/index.html(username:pavanol, password:test@123)
 
 https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
